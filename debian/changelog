@@ -1,0 +1,5 @@
+cryptfs-tpm2 (0.6-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- vagrant <rtkwlf@arcticwolf.com>  Fri, 26 Jan 2018 14:29:49 +0000
